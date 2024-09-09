@@ -1,0 +1,11 @@
+main {
+  max-width: 736px;
+  width: 100%;
+  margin: 50px auto;
+}
+
+.labels {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
